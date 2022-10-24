@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NCi+2yruB43ALiY7373fvYBfVqQ5SE/NRMefVP1oFI9bZQLLr8aKhQOz+KJ2yWhPJi59b0qP66UO/Y4H/DWrBg==",
+  "success": true,
+  "projectFilePath": "Z:\\Github\\C#\\JSONExtrator\\JSON-Utility\\JSONUtility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kristan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
